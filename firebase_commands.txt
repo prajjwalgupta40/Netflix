@@ -1,0 +1,7 @@
+1. firebase login
+2. firebase init (select service , projects you want)
+
+must enter 'build' when ask for public directory
+
+3. npm run build
+4. firebase deploy
